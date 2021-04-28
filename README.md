@@ -7,8 +7,8 @@ Tasks:
 - Deliverable 2: determine summary statistics for December
 - Deliverable 3: write a report for the statistical analysis
 
-Date file used: [hawaii.sqlite](https://github.com/MuddassirR/surfs_up/blob/main/hawaii.sqlite)
-software used: matplotlib, python, pandas, numpy, VS code, Jupyter Notebook, Sqlalchemy
+* Date file used: [hawaii.sqlite](https://github.com/MuddassirR/surfs_up/blob/main/hawaii.sqlite)
+* software used: matplotlib, python, pandas, numpy, VS code, Jupyter Notebook, Sqlalchemy
 
 ## Results
 Summary statistics for June:
